@@ -24,6 +24,10 @@ for(int i=0; i <= (sizeof(nama_var[nama])/sizeof(int)); i++){
     followers.push(nama_var[nama][i]);
 }
 
+int bilang_apa(){
+
+cout<<"gangerti pak"<<endl;
+}
 
 while(!followers.empty()){
     nama_pertama = followers.front();

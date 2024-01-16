@@ -27,6 +27,8 @@ for(int i=0; i <= (sizeof(nama_var[nama])/sizeof(int)); i++){
 int bilang_apa(){
 
 cout<<"gangerti pak"<<endl;
+cout<<"gangerti pak bener dah"<<endl;
+
 }
 
 while(!followers.empty()){
